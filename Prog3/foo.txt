@@ -1,0 +1,10 @@
+
+/*sdfsad fadsf*/
+#include <stdio.h>
+
+int main()
+{   /*sdfsadfadsf*/
+    printf("Hello World");
+    /**/*/
+    return 0;
+}
